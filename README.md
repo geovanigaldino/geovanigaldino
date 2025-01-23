@@ -7,7 +7,7 @@
   👨‍💻 Bem-vindo ao meu GitHub! 
 </p>
 
-<!-- About Me -->
+<!-- Sobre Mim -->
 ## 🚀 Sobre Mim
 
 Estou iniciando minha jornada no Desenvolvimento Web, com foco na criação de projetos responsivos e interativos que proporcionem uma experiência positiva para os usuários. 
@@ -28,18 +28,7 @@ Estou iniciando minha jornada no Desenvolvimento Web, com foco na criação de p
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </div>
 
-<!-- Skills -->
-## 🛠️ Tecnologias e Ferramentas
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</div>
-
-<!-- Contact -->
+<!-- Contato -->
 ## 📫 Contatos
 
 <div align="left">
