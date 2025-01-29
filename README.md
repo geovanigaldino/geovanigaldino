@@ -7,14 +7,13 @@
 <!-- Sobre Mim -->
 ## 🚀 Sobre Mim
 
-Estou iniciando minha jornada no Desenvolvimento Web, com foco na criação de projetos responsivos e interativos que proporcionem uma experiência positiva para os usuários. 
+Estou iniciando minha jornada no Desenvolvimento Fron-tend, com foco na criação de projetos responsivos e interativos que proporcionem uma experiência positiva para os usuários. 
 
 ### 🎯 Foco atual:
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </div>
 
 ### 💡 Conhecimentos:
