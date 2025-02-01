@@ -7,7 +7,7 @@
 <!-- Sobre Mim -->
 ## 🚀 Sobre Mim
 
-Estou iniciando minha jornada no Desenvolvimento Fron-tend, com foco na criação de projetos responsivos e interativos que proporcionem uma experiência positiva para os usuários. 
+Estou iniciando minha jornada no Desenvolvimento Fron-tend, apaixonado por tecnologia e sempre em busca de novos desafios.
 
 ### 🎯 Foco atual:
 <div align="left">
