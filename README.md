@@ -7,7 +7,7 @@
 <!-- Sobre Mim -->
 ## 🚀 Sobre Mim
 
-Estou iniciando minha jornada no Desenvolvimento Fron-tend, apaixonado por tecnologia e sempre em busca de novos desafios.
+Estou iniciando meus estudos no Desenvolvimento Web, apaixonado por tecnologia e sempre em busca de novos desafios.
 
 ### 💡 Conhecimentos:
 <div align="left">
