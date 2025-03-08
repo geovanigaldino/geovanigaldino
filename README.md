@@ -19,6 +19,4 @@ Estou iniciando meus estudos no Desenvolvimento Front-end, apaixonado por tecnol
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.geovanigaldino@gmail.com)
 
 </div>
-
-![Snake animation](https://github.com/geovanigaldino/geovanigaldino/blob/output/github-contribution-grid-snake.svg)
 ---
