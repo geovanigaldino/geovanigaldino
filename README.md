@@ -20,4 +20,5 @@ Estou iniciando meus estudos no Desenvolvimento Front-end, apaixonado por tecnol
 
 </div>
 
+![Snake animation](https://github.com/geovanigaldino/geovanigaldino/blob/output/github-contribution-grid-snake.svg)
 ---
